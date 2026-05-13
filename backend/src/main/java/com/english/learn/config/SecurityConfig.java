@@ -58,12 +58,16 @@ public class SecurityConfig {
             .csrf(csrf -> csrf.disable())
             .sessionManagement(session -> session.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
             .authorizeHttpRequests(auth -> auth
+                // API auth endpoints (login/register)
                 .requestMatchers("/api/auth/**").permitAll()
+                // Public read-only API endpoints
                 .requestMatchers(HttpMethod.GET, "/api/words/**", "/api/grammar/**",
                         "/api/articles/**", "/api/listening/**", "/api/quizzes/**",
                         "/api/search/**").permitAll()
-                .requestMatchers("/api/quizzes/**").permitAll()
-                .anyRequest().authenticated()
+                // All other API requests require authentication
+                .requestMatchers("/api/**").authenticated()
+                // Static files + SPA routes are public
+                .anyRequest().permitAll()
             )
             .addFilterBefore(jwtAuthFilter, UsernamePasswordAuthenticationFilter.class);
 
