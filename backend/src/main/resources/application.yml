@@ -1,5 +1,5 @@
 server:
-  port: 8080
+  port: ${PORT:8080}
 
 spring:
   # H2 内存数据库 (开发/测试环境)
@@ -32,7 +32,7 @@ spring:
 
 # JWT 配置
 jwt:
-  secret: YourSuperSecretKeyForJWTTokenGenerationThatShouldBeAtLeast256BitsLong
+  secret: ${JWT_SECRET:YourSuperSecretKeyForJWTTokenGenerationThatShouldBeAtLeast256BitsLong}
   expiration: 86400000  # 24小时
 
 # 文件上传配置
