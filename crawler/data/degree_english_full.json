@@ -1,0 +1,3323 @@
+{
+  "ability": {
+    "word": "ability",
+    "phonetic_us": "/əˈ.bɪl.ɪ.ti/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Suitableness.",
+    "example": "",
+    "def_cn": "能力，才能"
+  },
+  "abandon": {
+    "word": "abandon",
+    "phonetic_us": "/əˈbæn.dn̩/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions.",
+    "example": "",
+    "def_cn": "放弃，抛弃"
+  },
+  "absence": {
+    "word": "absence",
+    "phonetic_us": "/æbˈsɒns/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A state of being away or withdrawn from a place or from companionship; the period of being away.",
+    "example": "Absence makes the heart grow fonder.",
+    "def_cn": "缺席，不在"
+  },
+  "absolute": {
+    "word": "absolute",
+    "phonetic_us": "/ˈæb.səˌlut/",
+    "phonetic_uk": "/ˈæb.səˌljuːt/",
+    "pos": "noun",
+    "definition": "That which is independent of context-dependent interpretation, inviolate, fundamental.",
+    "example": "moral absolutes",
+    "def_cn": "绝对的，完全的"
+  },
+  "abstract": {
+    "word": "abstract",
+    "phonetic_us": "/ˈæbˌstɹækt/",
+    "phonetic_uk": "/ˈæbˌstɹækt/",
+    "pos": "noun",
+    "definition": "An abridgement or summary of a longer publication.",
+    "example": "",
+    "def_cn": "抽象的，摘要"
+  },
+  "absorb": {
+    "word": "absorb",
+    "phonetic_us": "/æbˈsɔɹb/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To include so that it no longer has separate existence; to overwhelm; to cause to disappear as if by swallowing up; to incorporate; to assimilate; to take in and use up.",
+    "example": "",
+    "def_cn": "吸收，吸引"
+  },
+  "abroad": {
+    "word": "abroad",
+    "phonetic_us": "/əˈbɹɔd/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Countries or lands abroad.",
+    "example": "",
+    "def_cn": "在国外，到国外"
+  },
+  "abundant": {
+    "word": "abundant",
+    "phonetic_us": "/əˈbn̩.dn̩t/",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "Fully sufficient; found in copious supply; in great quantity; overflowing.",
+    "example": "[W]ith their magical words they [poets] bring forth to our eyesight the abundant images and beauties of creation. — Leigh Hunt, On the Realities of Imagination",
+    "def_cn": "丰富的，充裕的"
+  },
+  "academic": {
+    "word": "academic",
+    "phonetic_us": "/ˌækəˈdɛmɪk/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "(usually capitalized) A follower of Plato, a Platonist.",
+    "example": "",
+    "def_cn": "学术的，学院的"
+  },
+  "accept": {
+    "word": "accept",
+    "phonetic_us": "/əkˈsɛpt/",
+    "phonetic_uk": "/ækˈsɛpt/",
+    "pos": "verb",
+    "definition": "To receive, especially with a consent, with favour, or with approval.",
+    "example": "",
+    "def_cn": "接受，承认"
+  },
+  "access": {
+    "word": "access",
+    "phonetic_us": "/ˈækˌsɛs/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A way or means of approaching or entering; an entrance; a passage.",
+    "example": "",
+    "def_cn": "进入，通道"
+  },
+  "accelerate": {
+    "word": "accelerate",
+    "phonetic_us": "/æk.ˈsɛl.ə.ˌɹeɪt/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To cause to move faster; to quicken the motion of; to add to the speed of.",
+    "example": "",
+    "def_cn": "加速，促进"
+  },
+  "accommodation": {
+    "word": "accommodation",
+    "phonetic_us": "/ə.ˌkɒm.ə.ˈdeɪ.ʃən/",
+    "phonetic_uk": "/ə.ˌkɒm.ə.ˈdeɪ.ʃən/",
+    "pos": "noun",
+    "definition": "(usually a mass noun) Lodging in a dwelling or similar living quarters afforded to travellers in hotels or on cruise ships, or prisoners, etc.",
+    "example": "",
+    "def_cn": "住宿，膳宿"
+  },
+  "accompany": {
+    "word": "accompany",
+    "phonetic_us": "/ə.ˈkʌm.pə.ni/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To go with or attend as a companion or associate; to keep company with; to go along with.",
+    "example": "Geoffrey accompanied the group on their pilgrimage.",
+    "def_cn": "陪伴，伴随"
+  },
+  "accomplish": {
+    "word": "accomplish",
+    "phonetic_us": "/əˈkɑm.plɪʃ/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To finish successfully.",
+    "example": "",
+    "def_cn": "完成，实现"
+  },
+  "accuse": {
+    "word": "accuse",
+    "phonetic_us": "/əˈkjuz/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Accusation.",
+    "example": "",
+    "def_cn": "指控，指责"
+  },
+  "achieve": {
+    "word": "achieve",
+    "phonetic_us": "/əˈtʃiːv/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To succeed in something, now especially in academic performance.",
+    "example": "",
+    "def_cn": "达到，取得"
+  },
+  "accurate": {
+    "word": "accurate",
+    "phonetic_us": "/ˈæk.jə.ɹɪt/",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "Telling the truth or giving a true result; exact; not defective or faulty",
+    "example": "accurate knowledge",
+    "def_cn": "准确的，精确的"
+  },
+  "acknowledge": {
+    "word": "acknowledge",
+    "phonetic_us": "/ækˈnɑː.lɪdʒ/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To admit the knowledge of; to recognize as a fact or truth; to declare one's belief in",
+    "example": "to acknowledge the being of a god",
+    "def_cn": "承认，确认"
+  },
+  "account": {
+    "word": "account",
+    "phonetic_us": "/ə.ˈkaʊnt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A registry of pecuniary transactions; a written or printed statement of business dealings or debts and credits, and also of other things subjected to a reckoning or review.",
+    "example": "",
+    "def_cn": "账户，说明"
+  },
+  "adapt": {
+    "word": "adapt",
+    "phonetic_us": "/əˈdæpt/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To make suitable; to make to correspond; to fit or suit",
+    "example": "",
+    "def_cn": "适应，改编"
+  },
+  "acquire": {
+    "word": "acquire",
+    "phonetic_us": "/əˈkwaɪəɹ/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To get.",
+    "example": "",
+    "def_cn": "获得，习得"
+  },
+  "adequate": {
+    "word": "adequate",
+    "phonetic_us": "",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To equalize; to make adequate.",
+    "example": "",
+    "def_cn": "足够的，适当的"
+  },
+  "adjust": {
+    "word": "adjust",
+    "phonetic_us": "/əˈdʒʌst/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To modify.",
+    "example": "Morimoto's recipes are adjusted to suit the American palate.",
+    "def_cn": "调整，适应"
+  },
+  "admire": {
+    "word": "admire",
+    "phonetic_us": "/ədˈmaɪɹ/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To be amazed at; to view with surprise; to marvel at.",
+    "example": "",
+    "def_cn": "钦佩，赞赏"
+  },
+  "admit": {
+    "word": "admit",
+    "phonetic_us": "/ədˈmɪt/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration",
+    "example": "A ticket admits one into a playhouse.",
+    "def_cn": "承认，准许进入"
+  },
+  "advantage": {
+    "word": "advantage",
+    "phonetic_us": "/ədˈvæn.tɪdʒ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Any condition, circumstance, opportunity or means, particularly favorable to success, or to any desired end.",
+    "example": "The enemy had the advantage of a more elevated position.",
+    "def_cn": "优势，有利条件"
+  },
+  "adopt": {
+    "word": "adopt",
+    "phonetic_us": "/əˈdɑpt/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To take by choice into relationship (a child, heir, friend, citizen, etc.)",
+    "example": "",
+    "def_cn": "采用，收养"
+  },
+  "advance": {
+    "word": "advance",
+    "phonetic_us": "/ədˈvæns/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A forward move; improvement or progression.",
+    "example": "an advance in health or knowledge",
+    "def_cn": "前进，进步"
+  },
+  "affair": {
+    "word": "affair",
+    "phonetic_us": "/əˈfɛə(ɹ)/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "(often in the plural) Something which is done or is to be done; business of any kind, commercial, professional, or public.",
+    "example": "a difficult affair to manage",
+    "def_cn": "事务，事件"
+  },
+  "aid": {
+    "word": "aid",
+    "phonetic_us": "/eɪd/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Help; assistance; succor, relief.",
+    "example": "He came to my aid when I was foundering.",
+    "def_cn": "援助，帮助"
+  },
+  "affect": {
+    "word": "affect",
+    "phonetic_us": "/əˈfɛkt/",
+    "phonetic_uk": "/əˈfɛkt/",
+    "pos": "verb",
+    "definition": "To influence or alter.",
+    "example": "The experience affected me deeply.",
+    "def_cn": "影响，感动"
+  },
+  "agreement": {
+    "word": "agreement",
+    "phonetic_us": "/əˈɡɹiːmənt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An understanding between entities to follow a specific course of conduct.",
+    "example": "to enter an agreement;  the UK and US negotiators nearing agreement;  he nodded his agreement.",
+    "def_cn": "协议，同意"
+  },
+  "aim": {
+    "word": "aim",
+    "phonetic_us": "/eɪm/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The pointing of a weapon, as a gun, a dart, or an arrow, or object, in the line of direction with the object intended to be struck; the line of fire; the direction of anything, such as a spear, a blow, a discourse, a remark, towards a particular point or object, with a view to strike or affect it.",
+    "example": "Take time with the aim of your gun.",
+    "def_cn": "目标，瞄准"
+  },
+  "afford": {
+    "word": "afford",
+    "phonetic_us": "/əˈfoɹd/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To incur, stand, or bear without serious detriment, as an act which might under other circumstances be injurious;—with an auxiliary, as can, could, might, etc.; to be able or rich enough.",
+    "example": "I think we can afford the extra hour it will take.  We can only afford to buy a small car at the moment.",
+    "def_cn": "负担得起"
+  },
+  "amount": {
+    "word": "amount",
+    "phonetic_us": "/əˈmaʊnt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The total, aggregate or sum of material (not applicable to discrete numbers or units or items in standard English).",
+    "example": "The amount of atmospheric pollution threatens a health crisis.",
+    "def_cn": "数量，总额"
+  },
+  "alternative": {
+    "word": "alternative",
+    "phonetic_us": "/ɔl.ˈtɝ.nə.tɪv/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A situation which allows a mutually exclusive choice between two or more possibilities; a choice between two or more possibilities.",
+    "example": "",
+    "def_cn": "替代的，选择"
+  },
+  "alarm": {
+    "word": "alarm",
+    "phonetic_us": "/əˈlɑɹm/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A summons to arms, as on the approach of an enemy.",
+    "example": "",
+    "def_cn": "警报，惊恐"
+  },
+  "analyze": {
+    "word": "analyze",
+    "phonetic_us": "/ˈæn.ə.laɪz/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To subject to analysis.",
+    "example": "",
+    "def_cn": "分析"
+  },
+  "ban": {
+    "word": "ban",
+    "phonetic_us": "/bæn/",
+    "phonetic_uk": "/bæn/",
+    "pos": "noun",
+    "definition": "Prohibition.",
+    "example": "",
+    "def_cn": "禁止，禁令"
+  },
+  "background": {
+    "word": "background",
+    "phonetic_us": "/ˈbæk.ɡɹaʊnd/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "One's social heritage, or previous life; what one did in the past.",
+    "example": "The lawyer had a background in computer science.",
+    "def_cn": "背景"
+  },
+  "balance": {
+    "word": "balance",
+    "phonetic_us": "/ˈbæləns/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A state in which opposing forces harmonise; equilibrium.",
+    "example": "",
+    "def_cn": "平衡，余额"
+  },
+  "base": {
+    "word": "base",
+    "phonetic_us": "/beɪs/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Something from which other things extend; a foundation.",
+    "example": "",
+    "def_cn": "基础，基地"
+  },
+  "amaze": {
+    "word": "amaze",
+    "phonetic_us": "/əˈmeɪz/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Amazement, astonishment.",
+    "example": "",
+    "def_cn": "使惊奇"
+  },
+  "basic": {
+    "word": "basic",
+    "phonetic_us": "/ˈbeɪsɪk/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A necessary commodity, a staple requirement.",
+    "example": "Rice is a basic for many Asian villagers.",
+    "def_cn": "基本的，基础的"
+  },
+  "bear": {
+    "word": "bear",
+    "phonetic_us": "/bɑɹ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A large omnivorous mammal, related to the dog and raccoon, having shaggy hair, a very small tail, and flat feet; a member of family Ursidae.",
+    "example": "",
+    "def_cn": "忍受，承担"
+  },
+  "basis": {
+    "word": "basis",
+    "phonetic_us": "/ˈbeɪsɪs/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A physical base or foundation.",
+    "example": "",
+    "def_cn": "基础，根据"
+  },
+  "behave": {
+    "word": "behave",
+    "phonetic_us": "/bəˈheɪv/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To conduct (oneself) well, or in a given way.",
+    "example": "You need to behave yourself, young lady.",
+    "def_cn": "表现，行为"
+  },
+  "belief": {
+    "word": "belief",
+    "phonetic_us": "/bəˈliːf/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Mental acceptance of a claim as true.",
+    "example": "It's my belief that the thief is somebody known to us.",
+    "def_cn": "信念，信仰"
+  },
+  "benefit": {
+    "word": "benefit",
+    "phonetic_us": "/ˈbɛn.ə.fɪt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An advantage; help or aid from something.",
+    "example": "It was for her benefit.   His benefit was free beer.",
+    "def_cn": "利益，好处"
+  },
+  "belong": {
+    "word": "belong",
+    "phonetic_us": "/bɪˈlɔŋ/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To have its proper place.",
+    "example": "Where does this document belong?",
+    "def_cn": "属于"
+  },
+  "blame": {
+    "word": "blame",
+    "phonetic_us": "/bleɪm/",
+    "phonetic_uk": "/bleɪm/",
+    "pos": "noun",
+    "definition": "Censure.",
+    "example": "Blame came from all directions.",
+    "def_cn": "责备，责怪"
+  },
+  "blank": {
+    "word": "blank",
+    "phonetic_us": "/blæŋk/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A small French coin, originally of silver, afterwards of copper, worth 5 deniers; also a silver coin of Henry V current in the parts of France then held by the English, worth about 8 pence .",
+    "example": "",
+    "def_cn": "空白的，空白处"
+  },
+  "block": {
+    "word": "block",
+    "phonetic_us": "/blɑk/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A substantial, often approximately cuboid, piece of any substance.",
+    "example": "a block of ice",
+    "def_cn": "街区，块，阻塞"
+  },
+  "board": {
+    "word": "board",
+    "phonetic_us": "/bɔːd/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A relatively long, wide and thin piece of any material, usually wood or similar, often for use in construction or furniture-making.",
+    "example": "",
+    "def_cn": "板，董事会"
+  },
+  "bore": {
+    "word": "bore",
+    "phonetic_us": "/bɔɹ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A hole drilled or milled through something, or (by extension) its diameter.",
+    "example": "the bore of a cannon",
+    "def_cn": "使厌烦"
+  },
+  "brief": {
+    "word": "brief",
+    "phonetic_us": "/bɹiːf/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A writ summoning one to answer to any action.",
+    "example": "",
+    "def_cn": "简短的，摘要"
+  },
+  "brand": {
+    "word": "brand",
+    "phonetic_us": "/bɹand/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A conflagration; a flame.",
+    "example": "",
+    "def_cn": "品牌，商标"
+  },
+  "bother": {
+    "word": "bother",
+    "phonetic_us": "/[ˈbɔðə(ɹ)]/",
+    "phonetic_uk": "/[ˈbɒðə(ɹ)]/",
+    "pos": "noun",
+    "definition": "Fuss, ado.",
+    "example": "There was a bit of bother at the hairdresser's when they couldn't find my appointment in the book.",
+    "def_cn": "打扰，烦恼"
+  },
+  "bound": {
+    "word": "bound",
+    "phonetic_us": "/ˈbaʊnd/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To tie; to confine by any ligature.",
+    "example": "",
+    "def_cn": "一定的，界限"
+  },
+  "budget": {
+    "word": "budget",
+    "phonetic_us": "/ˈbʌdʒ.ɪt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The amount of money or resources earmarked for a particular institution, activity or time-frame.",
+    "example": "",
+    "def_cn": "预算"
+  },
+  "burden": {
+    "word": "burden",
+    "phonetic_us": "/ˈbɝdn/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A heavy load.",
+    "example": "",
+    "def_cn": "负担，重担"
+  },
+  "broad": {
+    "word": "broad",
+    "phonetic_us": "/bɹɔd/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A shallow lake, one of a number of bodies of water in eastern Norfolk and Suffolk.",
+    "example": "",
+    "def_cn": "宽的，广泛的"
+  },
+  "burst": {
+    "word": "burst",
+    "phonetic_us": "/bɝst/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An act or instance of bursting.",
+    "example": "The bursts of the bombs could be heard miles away.",
+    "def_cn": "爆发，破裂"
+  },
+  "bury": {
+    "word": "bury",
+    "phonetic_us": "/ˈbɛ.ɹi/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A burrow.",
+    "example": "",
+    "def_cn": "埋葬，掩埋"
+  },
+  "capable": {
+    "word": "capable",
+    "phonetic_us": "/ˈkeɪpəbl̩/",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "Able and efficient; having the ability needed for a specific task; having the disposition to do something; permitting or being susceptible to something.",
+    "example": "As everyone knew, he was capable of violence when roused.",
+    "def_cn": "有能力的"
+  },
+  "capture": {
+    "word": "capture",
+    "phonetic_us": "/ˈkæp.t͡ʃɚ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An act of capturing; a seizing by force or stratagem.",
+    "example": "",
+    "def_cn": "捕获，俘获"
+  },
+  "capacity": {
+    "word": "capacity",
+    "phonetic_us": "/kəˈpæsɪti/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The ability to hold, receive or absorb",
+    "example": "",
+    "def_cn": "容量，能力"
+  },
+  "career": {
+    "word": "career",
+    "phonetic_us": "/kəˈɹɪɹ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "One's calling in life; a person's occupation; one's profession.",
+    "example": "",
+    "def_cn": "职业，生涯"
+  },
+  "celebrate": {
+    "word": "celebrate",
+    "phonetic_us": "/ˈsɛl.ə.bɹeɪt/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To extol or honour in a solemn manner.",
+    "example": "to celebrate the name of the Most High",
+    "def_cn": "庆祝"
+  },
+  "challenge": {
+    "word": "challenge",
+    "phonetic_us": "/ˈtʃæl.əndʒ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A confrontation; a dare.",
+    "example": "",
+    "def_cn": "挑战"
+  },
+  "character": {
+    "word": "character",
+    "phonetic_us": "/ˈkæɹəktɚ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A being involved in the action of a story.",
+    "example": "",
+    "def_cn": "性格，角色"
+  },
+  "charge": {
+    "word": "charge",
+    "phonetic_us": "/t͡ʃɑɹd͡ʒ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The amount of money levied for a service.",
+    "example": "There will be a charge of five dollars.",
+    "def_cn": "收费，指控"
+  },
+  "charity": {
+    "word": "charity",
+    "phonetic_us": "/ˈtʃæɹɪti/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An organization, the objective of which is to carry out a charitable purpose.",
+    "example": "",
+    "def_cn": "慈善，慈善机构"
+  },
+  "chief": {
+    "word": "chief",
+    "phonetic_us": "/tʃiːf/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A leader or head of a group of people, organisation, etc.",
+    "example": "All firefighters report to the fire chief.",
+    "def_cn": "主要的，首领"
+  },
+  "climate": {
+    "word": "climate",
+    "phonetic_us": "/ˈklaɪmɪt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An area of the earth's surface between two parallels of latitude.",
+    "example": "",
+    "def_cn": "气候"
+  },
+  "claim": {
+    "word": "claim",
+    "phonetic_us": "/kleɪm/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A demand of ownership made for something.",
+    "example": "a claim of ownership",
+    "def_cn": "声称，要求"
+  },
+  "classic": {
+    "word": "classic",
+    "phonetic_us": "/ˈklæ.sɪk/",
+    "phonetic_uk": "/ˈklæ.sɪk/",
+    "pos": "noun",
+    "definition": "A perfect and/or early example of a particular style.",
+    "example": "",
+    "def_cn": "经典的"
+  },
+  "coach": {
+    "word": "coach",
+    "phonetic_us": "/koʊtʃ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A wheeled vehicle, generally drawn by horse power.",
+    "example": "",
+    "def_cn": "教练，辅导"
+  },
+  "circumstance": {
+    "word": "circumstance",
+    "phonetic_us": "/ˈsɝ.kəm.ˌstæns/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "That which attends, or relates to, or in some way affects, a fact or event; an attendant thing or state of things.",
+    "example": "",
+    "def_cn": "环境，情况"
+  },
+  "combine": {
+    "word": "combine",
+    "phonetic_us": "/kəmˈbaɪn/",
+    "phonetic_uk": "/kəmˈbaɪn/",
+    "pos": "noun",
+    "definition": "A combine harvester",
+    "example": "We can't finish harvesting because our combine is stuck in the mud.",
+    "def_cn": "结合，联合"
+  },
+  "command": {
+    "word": "command",
+    "phonetic_us": "/kəˈmænd/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An order to do something.",
+    "example": "I was given a command to cease shooting.",
+    "def_cn": "命令，指挥"
+  },
+  "collapse": {
+    "word": "collapse",
+    "phonetic_us": "/kəˈlæps/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The act of collapsing.",
+    "example": "She suffered a terrible collapse after slipping on the wet floor.",
+    "def_cn": "倒塌，崩溃"
+  },
+  "comfort": {
+    "word": "comfort",
+    "phonetic_us": "/ˈkʌm.fəɹt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Contentment, ease.",
+    "example": "Sleep in comfort with our new mattress.",
+    "def_cn": "舒适，安慰"
+  },
+  "commission": {
+    "word": "commission",
+    "phonetic_us": "/kəˈmɪʃən/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A sending or mission (to do or accomplish something).",
+    "example": "",
+    "def_cn": "委员会，佣金"
+  },
+  "communicate": {
+    "word": "communicate",
+    "phonetic_us": "/kəˈmjuːnɪkeɪt/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To impart",
+    "example": "",
+    "def_cn": "交流，沟通"
+  },
+  "community": {
+    "word": "community",
+    "phonetic_us": "/k(ə)ˈmjunəti/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A group sharing a common understanding, and often the same language, law, manners, and/or tradition.",
+    "example": "",
+    "def_cn": "社区，团体"
+  },
+  "commit": {
+    "word": "commit",
+    "phonetic_us": "/kəˈmɪt/",
+    "phonetic_uk": "/kəˈmɪt/",
+    "pos": "noun",
+    "definition": "The act of committing (e.g. a database transaction or source code into a source control repository), making it a permanent change.",
+    "example": "",
+    "def_cn": "犯（罪），承诺"
+  },
+  "compete": {
+    "word": "compete",
+    "phonetic_us": "/kəm.ˈpiːt/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To be in battle or in a rivalry with another for the same thing, position, or reward; to contend",
+    "example": "",
+    "def_cn": "竞争，比赛"
+  },
+  "compare": {
+    "word": "compare",
+    "phonetic_us": "/kəmˈpɛɚ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Comparison.",
+    "example": "",
+    "def_cn": "比较，对比"
+  },
+  "complain": {
+    "word": "complain",
+    "phonetic_us": "/kəmˈpleɪn/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To express feelings of pain, dissatisfaction, or resentment.",
+    "example": "Joe was always complaining about the noise made by his neighbours.",
+    "def_cn": "抱怨，投诉"
+  },
+  "concentrate": {
+    "word": "concentrate",
+    "phonetic_us": "/ˈkɒn.sən.tɹeɪt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A substance that is in a condensed form.",
+    "example": "",
+    "def_cn": "集中，专注"
+  },
+  "complex": {
+    "word": "complex",
+    "phonetic_us": "",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A network of interconnected systems.",
+    "example": "",
+    "def_cn": "复杂的，综合体"
+  },
+  "conduct": {
+    "word": "conduct",
+    "phonetic_us": "",
+    "phonetic_uk": "/kənˈdʌkt/",
+    "pos": "noun",
+    "definition": "The act or method of controlling or directing",
+    "example": "",
+    "def_cn": "行为，进行"
+  },
+  "concern": {
+    "word": "concern",
+    "phonetic_us": "/kənˈsɝn/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "That which affects one’s welfare or happiness. A matter of interest to someone. The adposition before the matter of interest is usually over, about or for.",
+    "example": "Judy's eyes filled with concern as she listened to the news report.",
+    "def_cn": "关心，涉及"
+  },
+  "condition": {
+    "word": "condition",
+    "phonetic_us": "/kənˈdɪʃən/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A logical clause or phrase that a conditional statement uses. The phrase can either be true or false.",
+    "example": "",
+    "def_cn": "条件，状况"
+  },
+  "conclude": {
+    "word": "conclude",
+    "phonetic_us": "/kən.ˈkluːd/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To end; to come to an end.",
+    "example": "The story concluded with a moral.",
+    "def_cn": "总结，得出结论"
+  },
+  "concept": {
+    "word": "concept",
+    "phonetic_us": "/ˈkɒn.sɛpt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An abstract and general idea; an abstraction.",
+    "example": "",
+    "def_cn": "概念，观念"
+  },
+  "conflict": {
+    "word": "conflict",
+    "phonetic_us": "/kənˈflɪkt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A clash or disagreement, often violent, between two or more opposing groups or individuals.",
+    "example": "The conflict between the government and the rebels began three years ago.",
+    "def_cn": "冲突，矛盾"
+  },
+  "conference": {
+    "word": "conference",
+    "phonetic_us": "/ˈkɒn.fə.ɹəns/",
+    "phonetic_uk": "/ˈkɒn.fə.ɹəns/",
+    "pos": "noun",
+    "definition": "The act of consulting together formally; serious conversation or discussion; interchange of views.",
+    "example": "",
+    "def_cn": "会议，讨论会"
+  },
+  "confirm": {
+    "word": "confirm",
+    "phonetic_us": "/kənˈfɝm/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To strengthen; to make firm or resolute.",
+    "example": "",
+    "def_cn": "确认，证实"
+  },
+  "connect": {
+    "word": "connect",
+    "phonetic_us": "/kəˈnɛkt/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "(of an object) To join (to another object): to attach, or to be intended to attach or capable of attaching, to another object.",
+    "example": "I think this piece connects to that piece over there.",
+    "def_cn": "连接，联系"
+  },
+  "consequence": {
+    "word": "consequence",
+    "phonetic_us": "/ˈkɑnsɪkwəns/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "That which follows something on which it depends; that which is produced by a cause.",
+    "example": "",
+    "def_cn": "结果，后果"
+  },
+  "conscious": {
+    "word": "conscious",
+    "phonetic_us": "/ˈkɑn.ʃəs/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The part of the mind that is aware of itself; the consciousness.",
+    "example": "",
+    "def_cn": "有意识的，清醒的"
+  },
+  "conservative": {
+    "word": "conservative",
+    "phonetic_us": "/kənˈsɜːvətɪv/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A person who favors maintenance of the status quo.",
+    "example": "",
+    "def_cn": "保守的"
+  },
+  "consider": {
+    "word": "consider",
+    "phonetic_us": "/kənˈsɪdɚ/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To think about seriously.",
+    "example": "Consider that we’ve had three major events and the year has hardly begun.",
+    "def_cn": "考虑，认为"
+  },
+  "confidence": {
+    "word": "confidence",
+    "phonetic_us": "/ˈkɒnfɪdəns/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Self-assurance.",
+    "example": "",
+    "def_cn": "信心，信任"
+  },
+  "consist": {
+    "word": "consist",
+    "phonetic_us": "/kənˈsɪst/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To be.",
+    "example": "",
+    "def_cn": "由...组成"
+  },
+  "constant": {
+    "word": "constant",
+    "phonetic_us": "/ˈkɑnstənt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "That which is permanent or invariable.",
+    "example": "",
+    "def_cn": "不断的，恒定的"
+  },
+  "discuss": {
+    "word": "discuss",
+    "phonetic_us": "/dɪsˈkʌs/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To converse or debate concerning a particular topic.",
+    "example": "I don't wish to discuss this further. Let's talk about something else.",
+    "def_cn": "讨论"
+  },
+  "display": {
+    "word": "display",
+    "phonetic_us": "/dɪsˈpleɪ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A show or spectacle.",
+    "example": "The trapeze artist put on an amazing acrobatic display.",
+    "def_cn": "展示，显示"
+  },
+  "dismiss": {
+    "word": "dismiss",
+    "phonetic_us": "/dɪsˈmɪs/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To discharge; to end the employment or service of.",
+    "example": "The company dismissed me after less than a year.",
+    "def_cn": "解雇，解散"
+  },
+  "device": {
+    "word": "device",
+    "phonetic_us": "/dəˈvaɪs/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Any piece of equipment made for a particular purpose, especially a mechanical or electrical one.",
+    "example": "There are a number of household devices in a kitchen such as a dishwasher, a garbage disposal, or an electric can opener.",
+    "def_cn": "设备，装置"
+  },
+  "distribute": {
+    "word": "distribute",
+    "phonetic_us": "/dɪˈstɹɪbjut/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To divide into portions and dispense.",
+    "example": "He distributed the bread amongst his followers.",
+    "def_cn": "分配，分发"
+  },
+  "distinguish": {
+    "word": "distinguish",
+    "phonetic_us": "/dɪsˈtɪŋɡwɪʃ/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To recognize someone or something as different from others based on its characteristics.",
+    "example": "",
+    "def_cn": "区分，辨别"
+  },
+  "district": {
+    "word": "district",
+    "phonetic_us": "/ˈdɪstɹɪkt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An administrative division of an area.",
+    "example": "the Soho district of London",
+    "def_cn": "地区，区域"
+  },
+  "domestic": {
+    "word": "domestic",
+    "phonetic_us": "/dəˈmɛstɪk/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A house servant; a maid; a household worker.",
+    "example": "",
+    "def_cn": "国内的，家庭的"
+  },
+  "document": {
+    "word": "document",
+    "phonetic_us": "/ˈdɑkjʊmənt/",
+    "phonetic_uk": "/ˈdɒkjʊmɛnt/",
+    "pos": "noun",
+    "definition": "An original or official paper used as the basis, proof, or support of anything else, including any writing, book, or other instrument conveying information pertinent to such proof or support.",
+    "example": "",
+    "def_cn": "文件，文档"
+  },
+  "donate": {
+    "word": "donate",
+    "phonetic_us": "/doʊˈneɪt/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To make a donation; to give away something of value to support or contribute towards a cause or for the benefit of another.",
+    "example": "He donated an etching from his own collection to the new art gallery.",
+    "def_cn": "捐赠"
+  },
+  "educate": {
+    "word": "educate",
+    "phonetic_us": "/ˈɛdʒəkeɪt/",
+    "phonetic_uk": "/ˈɛdjʊkeɪt/",
+    "pos": "verb",
+    "definition": "To instruct or train",
+    "example": "Wang said such changes to the Baishui glacier provide the chance to educate visitors about global warming.",
+    "def_cn": "教育"
+  },
+  "doubt": {
+    "word": "doubt",
+    "phonetic_us": "/daʊt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Disbelief or uncertainty (about something); a particular instance of such disbelief or uncertainty.",
+    "example": "I have doubts about how to convert this code to JavaScript.",
+    "def_cn": "怀疑，疑问"
+  },
+  "economic": {
+    "word": "economic",
+    "phonetic_us": "/ˌiːkəˈnɒmɪk/",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "Pertaining to an economy.",
+    "example": "",
+    "def_cn": "经济的"
+  },
+  "dramatic": {
+    "word": "dramatic",
+    "phonetic_us": "/dɹəˈmætɪk/",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "Of or relating to the drama.",
+    "example": "",
+    "def_cn": "戏剧性的，巨大的"
+  },
+  "effective": {
+    "word": "effective",
+    "phonetic_us": "/əˈfɛktɪv/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A soldier fit for duty",
+    "example": "",
+    "def_cn": "有效的"
+  },
+  "efficient": {
+    "word": "efficient",
+    "phonetic_us": "/əˈfɪʃənt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A cause; something that causes an effect",
+    "example": "",
+    "def_cn": "高效的"
+  },
+  "effort": {
+    "word": "effort",
+    "phonetic_us": "/ˈɛfɚt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The work involved in performing an activity; exertion.",
+    "example": "It took a lot of effort to find a decent-sized, fully-furnished apartment within walking distance of the office.   He made a conscious effort to not appear affected by the stories in the paper.",
+    "def_cn": "努力，尽力"
+  },
+  "element": {
+    "word": "element",
+    "phonetic_us": "/ˈɛlɪmənt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "One of the simplest or essential parts or principles of which anything consists, or upon which the constitution or fundamental powers of anything are based.",
+    "example": "Letters are the elements of written language.",
+    "def_cn": "元素，要素"
+  },
+  "eliminate": {
+    "word": "eliminate",
+    "phonetic_us": "/ɪˈlɪməneɪt/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To completely remove, get rid of, put an end to.",
+    "example": "",
+    "def_cn": "消除，淘汰"
+  },
+  "embrace": {
+    "word": "embrace",
+    "phonetic_us": "/əm-/",
+    "phonetic_uk": "/ɛmˈbɹeɪs/",
+    "pos": "noun",
+    "definition": "An act of putting arms around someone and bringing the person close to the chest; a hug.",
+    "example": "",
+    "def_cn": "拥抱，包含"
+  },
+  "emerge": {
+    "word": "emerge",
+    "phonetic_us": "/iˈmɜːd͡ʒ/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To come into view.",
+    "example": "",
+    "def_cn": "出现，浮现"
+  },
+  "emotion": {
+    "word": "emotion",
+    "phonetic_us": "/iˈmoʊʃən/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A person's internal state of being and involuntary physiological response to an object or a situation, based on or tied to physical state and sensory data.",
+    "example": "",
+    "def_cn": "情感，情绪"
+  },
+  "employ": {
+    "word": "employ",
+    "phonetic_us": "/ɛmˈplɔɪ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The state of being an employee; employment.",
+    "example": "The school district has six thousand teachers in its employ.",
+    "def_cn": "雇用，使用"
+  },
+  "emphasis": {
+    "word": "emphasis",
+    "phonetic_us": "/ˈɛmfəsɪs/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Special weight or forcefulness given to something considered important.",
+    "example": "He paused for emphasis before saying who had won.",
+    "def_cn": "强调，重点"
+  },
+  "encounter": {
+    "word": "encounter",
+    "phonetic_us": "/ɪnˈkaʊntɚ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A meeting, especially one that is unplanned or unexpected.",
+    "example": "Their encounter was a matter of chance.",
+    "def_cn": "遇到，遭遇"
+  },
+  "global": {
+    "word": "global",
+    "phonetic_us": "/ˈɡləʊbəl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A globally scoped identifier.",
+    "example": "",
+    "def_cn": "全球的"
+  },
+  "guarantee": {
+    "word": "guarantee",
+    "phonetic_us": "/ˌɡæɹənˈtiː/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Anything that assures a certain outcome.",
+    "example": "Can you give me a guarantee that he will be fit for the match?",
+    "def_cn": "保证，担保"
+  },
+  "grant": {
+    "word": "grant",
+    "phonetic_us": "/ɡɹænt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The act of granting; a bestowing or conferring; concession; allowance; permission.",
+    "example": "",
+    "def_cn": "授予，拨款"
+  },
+  "harmony": {
+    "word": "harmony",
+    "phonetic_us": "/ˈhɑɹməni/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Agreement or accord.",
+    "example": "",
+    "def_cn": "和谐，协调"
+  },
+  "hesitate": {
+    "word": "hesitate",
+    "phonetic_us": "/ˈhɛzɪteɪt/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To stop or pause respecting decision or action; to be in suspense or uncertainty as to a determination.",
+    "example": "He hesitated whether to accept the offer or not; men often hesitate in forming a judgment.",
+    "def_cn": "犹豫，迟疑"
+  },
+  "ignore": {
+    "word": "ignore",
+    "phonetic_us": "/ɪɡˈnɔɹ/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To deliberately not listen or pay attention to.",
+    "example": "A problem ignored is a problem doubled.",
+    "def_cn": "忽视，不理睬"
+  },
+  "household": {
+    "word": "household",
+    "phonetic_us": "/ˈhaʊshoʊld/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Collectively, all the persons who live in a given house; a family including attendants, servants etc.; a domestic or family establishment.",
+    "example": "",
+    "def_cn": "家庭，家喻户晓的"
+  },
+  "identify": {
+    "word": "identify",
+    "phonetic_us": "/aɪˈdɛn.tɪ.faɪ/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To establish the identity of someone or something.",
+    "example": "",
+    "def_cn": "识别，确认"
+  },
+  "host": {
+    "word": "host",
+    "phonetic_us": "/hoʊst/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "One which receives or entertains a guest, socially, commercially, or officially.",
+    "example": "A good host is always considerate of the guest’s needs.",
+    "def_cn": "主人，主办"
+  },
+  "highlight": {
+    "word": "highlight",
+    "phonetic_us": "/ˈhaɪ.ˌlaɪt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An area or a spot in a drawing, painting, or photograph that is strongly illuminated.",
+    "example": "",
+    "def_cn": "突出，强调"
+  },
+  "illustrate": {
+    "word": "illustrate",
+    "phonetic_us": "/ɪ.ˈlʌs.tɹeɪt/",
+    "phonetic_uk": "/ɪ.ˈlʌs.tɹeɪt/",
+    "pos": "verb",
+    "definition": "To shed light upon.",
+    "example": "",
+    "def_cn": "说明，阐明"
+  },
+  "image": {
+    "word": "image",
+    "phonetic_us": "/ˈɪmɪd͡ʒ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An optical or other representation of a real object; a graphic; a picture.",
+    "example": "The Bible forbids the worship of graven images.",
+    "def_cn": "形象，图像"
+  },
+  "imagine": {
+    "word": "imagine",
+    "phonetic_us": "/ɪˈmædʒ.ɪn/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A short fanfic or prompt placing a reader insert in a novel scenario with a character or celebrity.",
+    "example": "",
+    "def_cn": "想象，设想"
+  },
+  "immediate": {
+    "word": "immediate",
+    "phonetic_us": "/ɪˈmi.di.ət/",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "Happening right away, instantly, with no delay.",
+    "example": "Computer users these days expect immediate results when they click on a link.",
+    "def_cn": "立即的，直接的"
+  },
+  "impact": {
+    "word": "impact",
+    "phonetic_us": "",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The striking of one body against another; collision.",
+    "example": "",
+    "def_cn": "影响，冲击"
+  },
+  "implement": {
+    "word": "implement",
+    "phonetic_us": "/ˈɪmpləmənt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A tool or instrument for working with.",
+    "example": "They carried an assortment of gardening implements in the truck.",
+    "def_cn": "实施，执行"
+  },
+  "impose": {
+    "word": "impose",
+    "phonetic_us": "/ɪmˈpoʊz/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To establish or apply by authority.",
+    "example": "Congress imposed new tariffs.",
+    "def_cn": "强加，征收"
+  },
+  "impress": {
+    "word": "impress",
+    "phonetic_us": "/ˈɪmpɹɛs/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The act of impressing.",
+    "example": "",
+    "def_cn": "给...留下印象"
+  },
+  "imply": {
+    "word": "imply",
+    "phonetic_us": "/ɪmˈplaɪ/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "(of a proposition) to have as a necessary consequence",
+    "example": "The proposition that \"all dogs are mammals\" implies that my dog is a mammal",
+    "def_cn": "暗示，意味着"
+  },
+  "improve": {
+    "word": "improve",
+    "phonetic_us": "/ɪmˈpɹuːv/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To make (something) better; to increase the value or productivity (of something).",
+    "example": "Buying more servers would improve performance.",
+    "def_cn": "改善，提高"
+  },
+  "incident": {
+    "word": "incident",
+    "phonetic_us": "/ˈɪn.sɪ.dənt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An event or occurrence.",
+    "example": "It was an incident that he hoped to forget.",
+    "def_cn": "事件，事故"
+  },
+  "include": {
+    "word": "include",
+    "phonetic_us": "/ɪnˈkluːd/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A piece of source code or other content that is dynamically retrieved for inclusion in another item.",
+    "example": "",
+    "def_cn": "包括，包含"
+  },
+  "increase": {
+    "word": "increase",
+    "phonetic_us": "",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An amount by which a quantity is increased.",
+    "example": "",
+    "def_cn": "增加，增长"
+  },
+  "indicate": {
+    "word": "indicate",
+    "phonetic_us": "/ˈɪndɪkeɪt/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To point out; to discover; to direct to a knowledge of; to show; to make known.",
+    "example": "The guard blew his whistle to indicate imminent departure.",
+    "def_cn": "表明，指示"
+  },
+  "income": {
+    "word": "income",
+    "phonetic_us": "/ˈɪnˌkʌm/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Money one earns by working or by capitalising on the work of others.",
+    "example": "",
+    "def_cn": "收入，收益"
+  },
+  "individual": {
+    "word": "individual",
+    "phonetic_us": "/ˌɪndəˈ-/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A person considered alone, rather than as belonging to a group of people.",
+    "example": "He is an unusual individual.",
+    "def_cn": "个人的，个人"
+  },
+  "industry": {
+    "word": "industry",
+    "phonetic_us": "/ˈɪndəstɹi/",
+    "phonetic_uk": "/ˈɪndəstɹi/",
+    "pos": "noun",
+    "definition": "The tendency to work persistently. Diligence.",
+    "example": "Over the years, their industry and business sense made them wealthy.",
+    "def_cn": "工业，行业"
+  },
+  "minor": {
+    "word": "minor",
+    "phonetic_us": "/ˈmaɪnɚ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A person who is below the age of majority, consent, criminal responsibility or other adult responsibilities and accountabilities.",
+    "example": "It is illegal to sell weapons to minors under the age of eighteen.",
+    "def_cn": "较小的，次要的"
+  },
+  "monitor": {
+    "word": "monitor",
+    "phonetic_us": "/ˈmɒnɨtə/",
+    "phonetic_uk": "/ˈmɒnɨtə/",
+    "pos": "noun",
+    "definition": "Someone who watches over something; a person in charge of something or someone.",
+    "example": "The camp monitors look after the children during the night, when the teachers are asleep.",
+    "def_cn": "监控，班长"
+  },
+  "motivate": {
+    "word": "motivate",
+    "phonetic_us": "/ˈməʊtɪveɪt/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To provide someone with an incentive to do something; to encourage.",
+    "example": "The weekly staff meeting was meant to motivate employees.",
+    "def_cn": "激励，激发"
+  },
+  "negative": {
+    "word": "negative",
+    "phonetic_us": "/-ɾɪv/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Refusal or withholding of assents; prohibition, veto",
+    "example": "",
+    "def_cn": "消极的，否定的"
+  },
+  "mutual": {
+    "word": "mutual",
+    "phonetic_us": "/ˈmjuːt͡ʃuəl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A mutual fund.",
+    "example": "",
+    "def_cn": "相互的，共同的"
+  },
+  "moral": {
+    "word": "moral",
+    "phonetic_us": "/ˈmɑɹəl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "(of a narrative) The ethical significance or practical lesson.",
+    "example": "",
+    "def_cn": "道德的，寓意"
+  },
+  "network": {
+    "word": "network",
+    "phonetic_us": "/nɛtwɝk/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A fabric or structure of fibrous elements attached to each other at regular intervals.",
+    "example": "",
+    "def_cn": "网络"
+  },
+  "normal": {
+    "word": "normal",
+    "phonetic_us": "/ˈnɔɹməl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A line or vector that is perpendicular to another line, surface, or plane.",
+    "example": "",
+    "def_cn": "正常的，标准的"
+  },
+  "negotiate": {
+    "word": "negotiate",
+    "phonetic_us": "/nəˈɡoʊ.ʃi.eɪt/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To confer with others in order to come to terms or reach an agreement.",
+    "example": "",
+    "def_cn": "谈判，协商"
+  },
+  "notion": {
+    "word": "notion",
+    "phonetic_us": "/ˈnoʊʃən/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Mental apprehension of whatever may be known, thought, or imagined; idea, concept.",
+    "example": "",
+    "def_cn": "概念，观念"
+  },
+  "nevertheless": {
+    "word": "nevertheless",
+    "phonetic_us": "/ˈnɛvəðəlɛs/",
+    "phonetic_uk": "/ˈnɛvəðəlɛs/",
+    "pos": "adverb",
+    "definition": "In spite of what preceded; yet.",
+    "example": "",
+    "def_cn": "然而，不过"
+  },
+  "numerous": {
+    "word": "numerous",
+    "phonetic_us": "/ˈnjuːməɹəs/",
+    "phonetic_uk": "/ˈnjuːməɹəs/",
+    "pos": "adjective",
+    "definition": "Indefinitely large numerically, many.",
+    "example": "There are numerous definitions of the word 'man'.",
+    "def_cn": "许多的，大量的"
+  },
+  "object": {
+    "word": "object",
+    "phonetic_us": "/ˈɑb.d͡ʒɛkt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A thing that has physical existence.",
+    "example": "",
+    "def_cn": "物体，目标，反对"
+  },
+  "objective": {
+    "word": "objective",
+    "phonetic_us": "/əbˈd͡ʒɛk.tɪv/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A material object that physically exists.",
+    "example": "",
+    "def_cn": "客观的，目标"
+  },
+  "obtain": {
+    "word": "obtain",
+    "phonetic_us": "/əbˈteɪn/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To get hold of; to gain possession of, to procure; to acquire, in any way.",
+    "example": "",
+    "def_cn": "获得，得到"
+  },
+  "obvious": {
+    "word": "obvious",
+    "phonetic_us": "/ˈɑ.vi.əs/",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "Easily discovered, seen, or understood; self-explanatory.",
+    "example": "",
+    "def_cn": "明显的"
+  },
+  "occupy": {
+    "word": "occupy",
+    "phonetic_us": "/ˈɒkjʊpaɪ/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "(of time) To take or use.",
+    "example": "",
+    "def_cn": "占据，使忙于"
+  },
+  "operate": {
+    "word": "operate",
+    "phonetic_us": "/ˈɑpəɹeɪt/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To perform a work or labour; to exert power or strength, physical or mechanical; to act.",
+    "example": "",
+    "def_cn": "操作，经营"
+  },
+  "occasion": {
+    "word": "occasion",
+    "phonetic_us": "/əˈkeɪʒən/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A favorable opportunity; a convenient or timely chance.",
+    "example": "At this point, she seized the occasion to make her own observation.",
+    "def_cn": "场合，时机"
+  },
+  "promise": {
+    "word": "promise",
+    "phonetic_us": "/ˈpɹɑmɪs/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An oath or affirmation; a vow",
+    "example": "if I make a promise, I always stick to it;  he broke his promise",
+    "def_cn": "承诺，许诺"
+  },
+  "promote": {
+    "word": "promote",
+    "phonetic_us": "/pɹəˈmoʊt/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To raise (someone) to a more important, responsible, or remunerative job or rank.",
+    "example": "He promoted his clerk to office manager.",
+    "def_cn": "促进，提升"
+  },
+  "produce": {
+    "word": "produce",
+    "phonetic_us": "/pɹəˈdus/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To yield, make or manufacture; to generate.",
+    "example": "",
+    "def_cn": "生产，产生"
+  },
+  "proper": {
+    "word": "proper",
+    "phonetic_us": "/ˈpɹɑ.pɚ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Something set apart for a special use.",
+    "example": "",
+    "def_cn": "适当的，正确的"
+  },
+  "property": {
+    "word": "property",
+    "phonetic_us": "/ˈpɹɑp.ɚt.i/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Something that is owned.",
+    "example": "Important types of property include real property (land), personal property (other physical possessions), and intellectual property (rights over artistic creations, inventions, etc.).",
+    "def_cn": "财产，特性"
+  },
+  "propose": {
+    "word": "propose",
+    "phonetic_us": "/pɹəˈpoʊz/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An objective or aim.",
+    "example": "",
+    "def_cn": "提议，建议"
+  },
+  "protect": {
+    "word": "protect",
+    "phonetic_us": "/pɹəˈtɛkt/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To keep safe; to defend; to guard; to prevent harm coming to.",
+    "example": "Condoms are designed to protect against sexually-transmitted diseases.",
+    "def_cn": "保护，防护"
+  },
+  "prove": {
+    "word": "prove",
+    "phonetic_us": "/pɹuːv/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To proofread.",
+    "example": "",
+    "def_cn": "证明，证实"
+  },
+  "provide": {
+    "word": "provide",
+    "phonetic_us": "/pɹəˈvaɪd/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To make a living; earn money for necessities.",
+    "example": "It is difficult to provide for my family working on minimum wage.",
+    "def_cn": "提供，供给"
+  },
+  "profit": {
+    "word": "profit",
+    "phonetic_us": "/ˈpɹɑfɪt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Total income or cash flow minus expenditures. The money or other benefit a non-governmental organization or individual receives in exchange for products and services sold at an advertised price.",
+    "example": "",
+    "def_cn": "利润，收益"
+  },
+  "publish": {
+    "word": "publish",
+    "phonetic_us": "/ˈpʌblɪʃ/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To issue (something, such as printed work) for distribution and/or sale.",
+    "example": "Most of the sketches Faulkner published in 1925 appeared in the Sunday magazine section of the New Orleans Times-Picayune.",
+    "def_cn": "出版，发表"
+  },
+  "purchase": {
+    "word": "purchase",
+    "phonetic_us": "/ˈpɝtʃəs/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The acquisition of title to, or property in, anything for a price; buying for money or its equivalent.",
+    "example": "They offer a free hamburger with the purchase of a drink.",
+    "def_cn": "购买"
+  },
+  "quality": {
+    "word": "quality",
+    "phonetic_us": "/ˈkwɑləti/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Level of excellence.",
+    "example": "Quality of life is usually determined by health, education, and income.",
+    "def_cn": "质量，品质"
+  },
+  "rapid": {
+    "word": "rapid",
+    "phonetic_us": "/ˈɹæpɪd/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "(often in the plural) a rough section of a river or stream which is difficult to navigate due to the swift and turbulent motion of the water.",
+    "example": "",
+    "def_cn": "迅速的，快速的"
+  },
+  "quantity": {
+    "word": "quantity",
+    "phonetic_us": "/ˈkwɑn(t)ɨti/",
+    "phonetic_uk": "/ˈkwɒn.tɪ.ti/",
+    "pos": "noun",
+    "definition": "A fundamental, generic term used when referring to the measurement (count, amount) of a scalar, vector, number of items or to some other way of denominating the value of a collection or group of items.",
+    "example": "You have to choose between quantity and quality.",
+    "def_cn": "数量，大量"
+  },
+  "range": {
+    "word": "range",
+    "phonetic_us": "/ɹeɪndʒ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A line or series of mountains, buildings, etc.",
+    "example": "",
+    "def_cn": "范围，排列"
+  },
+  "react": {
+    "word": "react",
+    "phonetic_us": "/ɹiːˈækt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An emoji used to express a reaction to a post on social media.",
+    "example": "Sad reacts only",
+    "def_cn": "反应，回应"
+  },
+  "rate": {
+    "word": "rate",
+    "phonetic_us": "/ɹeɪt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The worth of something; value.",
+    "example": "",
+    "def_cn": "率，费率，评价"
+  },
+  "realistic": {
+    "word": "realistic",
+    "phonetic_us": "/ˌɹiːjəˈlɪstɪk/",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "Expressed or represented as being accurate, practicable, or not idealistic.",
+    "example": "A realistic appraisal of the situation.",
+    "def_cn": "现实的，实际的"
+  },
+  "pursue": {
+    "word": "pursue",
+    "phonetic_us": "/pɚˈsu/",
+    "phonetic_uk": "/pəˈsjuː/",
+    "pos": "verb",
+    "definition": "To follow urgently, originally with intent to capture or harm; to chase.",
+    "example": "",
+    "def_cn": "追求，追赶"
+  },
+  "realize": {
+    "word": "realize",
+    "phonetic_us": "/ˈɹi.ə.laɪz/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To make real; to convert from the imaginary or fictitious into reality; to bring into real existence",
+    "example": "The objectives of the project were never fully realized.",
+    "def_cn": "意识到，实现"
+  },
+  "reasonable": {
+    "word": "reasonable",
+    "phonetic_us": "/ˈɹiː.zən.ə.bəl/",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "Having the faculty of reason; rational, reasoning.",
+    "example": "",
+    "def_cn": "合理的，公道的"
+  },
+  "recognize": {
+    "word": "recognize",
+    "phonetic_us": "/ˈɹɛkənaɪz/",
+    "phonetic_uk": "/ˈɹɛkənaɪz/",
+    "pos": "verb",
+    "definition": "To match (something or someone which one currently perceives) to a memory of some previous encounter with the same person or thing.",
+    "example": "I recognised his face immediately.",
+    "def_cn": "认识，认出"
+  },
+  "reduce": {
+    "word": "reduce",
+    "phonetic_us": "/ɹɪˈduːs/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To bring down the size, quantity, quality, value or intensity of something; to diminish, to lower.",
+    "example": "to reduce weight, speed, heat, expenses, price, personnel etc.",
+    "def_cn": "减少，降低"
+  },
+  "recommend": {
+    "word": "recommend",
+    "phonetic_us": "/ɹɛkəˈmɛnd/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To bestow commendation on; to represent favourably; to suggest, endorse or encourage as an appropriate choice.",
+    "example": "The board recommends Philips, given his ample experience in similar positions.",
+    "def_cn": "推荐，建议"
+  },
+  "recover": {
+    "word": "recover",
+    "phonetic_us": "/ɹɪˈkʌvɚ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Recovery.",
+    "example": "",
+    "def_cn": "恢复，康复"
+  },
+  "reform": {
+    "word": "reform",
+    "phonetic_us": "/ɹəˈfɔɹm/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The change of something that is defective, broken, inefficient or otherwise negative, in order to correct or improve it",
+    "example": "A major reform is needed to improve the efficiency in the factory.",
+    "def_cn": "改革，改良"
+  },
+  "signal": {
+    "word": "signal",
+    "phonetic_us": "/ˈsɪɡnəl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A sequence of states representing an encoded message in a communication channel.",
+    "example": "",
+    "def_cn": "信号，标志"
+  },
+  "significance": {
+    "word": "significance",
+    "phonetic_us": "/sɪɡˈnɪfɪkəns/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The extent to which something matters; importance",
+    "example": "As a juror your opinion is of great significance for the outcome of the trial.",
+    "def_cn": "重要性，意义"
+  },
+  "similar": {
+    "word": "similar",
+    "phonetic_us": "/ˈsɪməlɚ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "That which is similar to, or resembles, something else, as in quality, form, etc.",
+    "example": "",
+    "def_cn": "相似的，类似的"
+  },
+  "situation": {
+    "word": "situation",
+    "phonetic_us": "/sɪtjuːˈeɪʃən/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The combination of circumstances at a given moment; a state of affairs.",
+    "example": "The United States is in an awkward situation with debt default looming.",
+    "def_cn": "情况，形势"
+  },
+  "software": {
+    "word": "software",
+    "phonetic_us": "/ˈsɔftˌwɛɹ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Encoded computer instructions, usually modifiable (unless stored in some form of unalterable memory such as ROM).",
+    "example": "",
+    "def_cn": "软件"
+  },
+  "social": {
+    "word": "social",
+    "phonetic_us": "/ˈsoʊ.ʃəl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A festive gathering to foster introductions.",
+    "example": "They organized a social at the dance club to get people to know each other.",
+    "def_cn": "社会的，社交的"
+  },
+  "skill": {
+    "word": "skill",
+    "phonetic_us": "/skɪl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Capacity to do something well; technique, ability. Skills are usually acquired or learned, as opposed to abilities, which are often thought of as innate.",
+    "example": "",
+    "def_cn": "技能，技巧"
+  },
+  "settle": {
+    "word": "settle",
+    "phonetic_us": "/ˈsɛtəl/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To conclude or resolve (something):",
+    "example": "",
+    "def_cn": "解决，定居"
+  },
+  "standard": {
+    "word": "standard",
+    "phonetic_us": "/ˈstændəɹd/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A principle or example or measure used for comparison.",
+    "example": "",
+    "def_cn": "标准"
+  },
+  "source": {
+    "word": "source",
+    "phonetic_us": "/sɔɹs/",
+    "phonetic_uk": "/sɔːs/",
+    "pos": "noun",
+    "definition": "The person, place or thing from which something (information, goods, etc.) comes or is acquired.",
+    "example": "The accused refused to reveal the source of the illegal drugs she was selling.",
+    "def_cn": "来源，出处"
+  },
+  "stable": {
+    "word": "stable",
+    "phonetic_us": "/ˈsteɪ.bəɫ/",
+    "phonetic_uk": "/ˈsteɪ.bəɫ/",
+    "pos": "noun",
+    "definition": "A building, wing or dependency set apart and adapted for lodging and feeding (and training) animals with hoofs, especially horses.",
+    "example": "There were stalls for fourteen horses in the squire's stables.",
+    "def_cn": "稳定的"
+  },
+  "specific": {
+    "word": "specific",
+    "phonetic_us": "/spəˈsɪf.ɪk/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A distinguishing attribute or quality.",
+    "example": "",
+    "def_cn": "具体的，特定的"
+  },
+  "solution": {
+    "word": "solution",
+    "phonetic_us": "/səˈl(j)uːʃən/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A homogeneous mixture, which may be liquid, gas or solid, formed by dissolving one or more substances.",
+    "example": "",
+    "def_cn": "解决方案"
+  },
+  "strategy": {
+    "word": "strategy",
+    "phonetic_us": "/ˈstɹætədʒi/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The science and art of military command as applied to the overall planning and conduct of warfare.",
+    "example": "",
+    "def_cn": "策略，战略"
+  },
+  "strength": {
+    "word": "strength",
+    "phonetic_us": "/stɹɛŋkθ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The quality or degree of being strong.",
+    "example": "It requires great strength to lift heavy objects.",
+    "def_cn": "力量，优势"
+  },
+  "status": {
+    "word": "status",
+    "phonetic_us": "/ˈsteɪt.əs/",
+    "phonetic_uk": "/ˈsteɪt.əs/",
+    "pos": "noun",
+    "definition": "A person’s condition, position or standing relative to that of others.",
+    "example": "Superstition is highly correlated with economic status.",
+    "def_cn": "地位，状态"
+  },
+  "stress": {
+    "word": "stress",
+    "phonetic_us": "/stɹɛs/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "(Cause of) discomfort.",
+    "example": "",
+    "def_cn": "压力，强调"
+  },
+  "structure": {
+    "word": "structure",
+    "phonetic_us": "/ˈstɹʌktʃɚ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A cohesive whole built up of distinct parts.",
+    "example": "The birds had built an amazing structure out of sticks and various discarded items.",
+    "def_cn": "结构，构造"
+  },
+  "struggle": {
+    "word": "struggle",
+    "phonetic_us": "/ˈstrʌɡəl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A contortion of the body in an attempt to escape or to perform a difficult task.",
+    "example": "",
+    "def_cn": "奋斗，斗争"
+  },
+  "succeed": {
+    "word": "succeed",
+    "phonetic_us": "/səkˈsiːd/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To follow in order; to come next after; hence, to take the place of.",
+    "example": "Autumn succeeds summer.",
+    "def_cn": "成功，继承"
+  },
+  "suffer": {
+    "word": "suffer",
+    "phonetic_us": "/ˈsʌfɚ/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To undergo hardship.",
+    "example": "Is anyone here afraid of suffering hardship?",
+    "def_cn": "遭受，受苦"
+  },
+  "urge": {
+    "word": "urge",
+    "phonetic_us": "/ɝd͡ʒ/",
+    "phonetic_uk": "/ɜːd͡ʒ/",
+    "pos": "noun",
+    "definition": "A strong desire; an itch to do something.",
+    "example": "",
+    "def_cn": "催促，强烈要求"
+  },
+  "valid": {
+    "word": "valid",
+    "phonetic_us": "/ˈvælɪd/",
+    "phonetic_uk": "/ˈvælɪd/",
+    "pos": "adjective",
+    "definition": "Well grounded or justifiable, pertinent.",
+    "example": "I will believe him as soon as he offers a valid answer.",
+    "def_cn": "有效的，合法的"
+  },
+  "version": {
+    "word": "version",
+    "phonetic_us": "/ˈvɝʒən/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A specific form or variation of something.",
+    "example": "",
+    "def_cn": "版本，说法"
+  },
+  "various": {
+    "word": "various",
+    "phonetic_us": "/ˈvæɹ.i.əs/",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "Having a broad range (of different elements).",
+    "example": "The reasons are various.",
+    "def_cn": "各种各样的"
+  },
+  "vision": {
+    "word": "vision",
+    "phonetic_us": "/ˈvɪ.ʒ(ə)n/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The sense or ability of sight.",
+    "example": "",
+    "def_cn": "视力，愿景"
+  },
+  "victim": {
+    "word": "victim",
+    "phonetic_us": "/ˈvɪktəm/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "One that is harmed—killed, injured, subjected to oppression, deceived, or otherwise adversely affected—by someone or something, especially another person or event, force, or condition; in particular:",
+    "example": "the youngest victims of the brutal war",
+    "def_cn": "受害者，牺牲品"
+  },
+  "vital": {
+    "word": "vital",
+    "phonetic_us": "/ˈvaɪt̬əl/",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "Relating to, or characteristic of life.",
+    "example": "vital energies; vital functions; vital actions",
+    "def_cn": "至关重要的"
+  },
+  "volunteer": {
+    "word": "volunteer",
+    "phonetic_us": "/vɑl.ənˈtɪɹ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "One who enters into, or offers for, any service of his/her own free will, especially when done without pay.",
+    "example": "",
+    "def_cn": "志愿者，自愿"
+  },
+  "vulnerable": {
+    "word": "vulnerable",
+    "phonetic_us": "/ˈvʌln(ə)ɹəbl̩/",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "More or most likely to be exposed to the chance of being attacked or harmed, either physically or emotionally.",
+    "example": "It's okay to get vulnerable every now and again.",
+    "def_cn": "脆弱的，易受伤的"
+  },
+  "wealth": {
+    "word": "wealth",
+    "phonetic_us": "/wɛlθ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Riches; valuable material possessions.",
+    "example": "",
+    "def_cn": "财富，丰富"
+  },
+  "welfare": {
+    "word": "welfare",
+    "phonetic_us": "/ˈwɛlˌfɛə/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Health, safety, happiness and prosperity; well-being in any respect.",
+    "example": "",
+    "def_cn": "福利，幸福"
+  },
+  "widespread": {
+    "word": "widespread",
+    "phonetic_us": "",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "Affecting a large area (e.g. the entire land or body); broad in extent; widely diffused.",
+    "example": "",
+    "def_cn": "广泛的，普遍的"
+  },
+  "volume": {
+    "word": "volume",
+    "phonetic_us": "/ˈvɑl.jum/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A three-dimensional measure of space that comprises a length, a width and a height. It is measured in units of cubic centimeters in metric, cubic inches or cubic feet in English measurement.",
+    "example": "The room is 9x12x8, so its volume is 864 cubic feet.",
+    "def_cn": "体积，音量"
+  },
+  "worthwhile": {
+    "word": "worthwhile",
+    "phonetic_us": "/wɜː(ɹ)θˈwaɪl/",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "Good and important enough to spend time, effort, or money on.",
+    "example": "Doing volunteer work to help others is truly worthwhile.",
+    "def_cn": "值得的"
+  },
+  "witness": {
+    "word": "witness",
+    "phonetic_us": "/ˈwɪtnəs/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Attestation of a fact or event; testimony.",
+    "example": "She can bear witness, since she was there at the time.",
+    "def_cn": "目击者，见证"
+  },
+  "yield": {
+    "word": "yield",
+    "phonetic_us": "/jiːld/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To pay, give in payment; repay, recompense; reward; requite.",
+    "example": "",
+    "def_cn": "屈服，产出"
+  },
+  "attitude": {
+    "word": "attitude",
+    "phonetic_us": "/ˈætɪtud/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The position of the body or way of carrying oneself.",
+    "example": "The ballet dancer walked with a graceful attitude.",
+    "def_cn": "态度，看法"
+  },
+  "available": {
+    "word": "available",
+    "phonetic_us": "/əˈveɪləb(ə)l/",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "Such as one may avail oneself of; capable of being used for the accomplishment of a purpose.",
+    "example": "We have an available candidate.",
+    "def_cn": "可用的，可获得的"
+  },
+  "associate": {
+    "word": "associate",
+    "phonetic_us": "/əˈsoʊsi.ət/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A person united with another or others in an act, enterprise, or business; a partner.",
+    "example": "",
+    "def_cn": "联想，联系"
+  },
+  "appreciate": {
+    "word": "appreciate",
+    "phonetic_us": "/əˈpɹiː.si.eɪt/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To be grateful or thankful for.",
+    "example": "I appreciate your efforts",
+    "def_cn": "感激；欣赏；升值"
+  },
+  "zone": {
+    "word": "zone",
+    "phonetic_us": "/zoʊn/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Each of the five regions of the earth's surface into which it was divided by climatic differences, namely the torrid zone (between the tropics), two temperate zones (between the tropics and the polar circles), and two frigid zones (within the polar circles).",
+    "example": "",
+    "def_cn": "区域，地带"
+  },
+  "attract": {
+    "word": "attract",
+    "phonetic_us": "/əˈtɹækt/",
+    "phonetic_uk": "/əˈtɹækt/",
+    "pos": "verb",
+    "definition": "To pull toward without touching.",
+    "example": "A magnet attracts iron filings.",
+    "def_cn": "吸引"
+  },
+  "authority": {
+    "word": "authority",
+    "phonetic_us": "/əˈθɑɹəti/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The power to enforce rules or give orders.",
+    "example": "I have the authority to penalise the staff in my department, but not the authority to sack them.",
+    "def_cn": "权威，当局"
+  },
+  "audience": {
+    "word": "audience",
+    "phonetic_us": "/ˈɔːdi.əns/",
+    "phonetic_uk": "/ˈɔːdi.əns/",
+    "pos": "noun",
+    "definition": "A group of people within hearing; specifically, a large gathering of people listening to or watching a performance, speech, etc.",
+    "example": "We joined the audience just as the lights went down.",
+    "def_cn": "观众，听众"
+  },
+  "aware": {
+    "word": "aware",
+    "phonetic_us": "/əˈwɛɚ/",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "Vigilant or on one's guard against danger or difficulty.",
+    "example": "Stay aware! Don't let your guard down.",
+    "def_cn": "意识到的"
+  },
+  "award": {
+    "word": "award",
+    "phonetic_us": "/əˈwɔɹd/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A judgment, sentence, or final decision. Specifically: The decision of arbitrators in a case submitted.",
+    "example": "",
+    "def_cn": "奖，授予"
+  },
+  "battle": {
+    "word": "battle",
+    "phonetic_us": "/ˈbætl̩/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A contest, a struggle.",
+    "example": "the battle of life",
+    "def_cn": "战斗，战役"
+  },
+  "curve": {
+    "word": "curve",
+    "phonetic_us": "/kɝv/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A gentle bend, such as in a road.",
+    "example": "You should slow down when approaching a curve.",
+    "def_cn": "曲线，弯曲"
+  },
+  "cycle": {
+    "word": "cycle",
+    "phonetic_us": "/ˈsaɪkəl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An interval of space or time in which one set of events or phenomena is completed.",
+    "example": "the cycle of the seasons, or of the year",
+    "def_cn": "循环，周期"
+  },
+  "deadline": {
+    "word": "deadline",
+    "phonetic_us": "/ˈdɛdˌlaɪn/",
+    "phonetic_uk": "/ˈdɛdˌlaɪn/",
+    "pos": "noun",
+    "definition": "A time limit in the form of a date on or before which something must be completed.",
+    "example": "I must make this deadline or my boss will kill me!",
+    "def_cn": "截止日期"
+  },
+  "dean": {
+    "word": "dean",
+    "phonetic_us": "/diːn/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A senior official in a college or university, who may be in charge of a division or faculty (for example, the dean of science) or have some other advisory or disciplinary function (for example, the dean of students).",
+    "example": "",
+    "def_cn": "院长，系主任"
+  },
+  "defense": {
+    "word": "defense",
+    "phonetic_us": "/dɪˈfɛns/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The action of defending or protecting from attack, danger, or injury.",
+    "example": "",
+    "def_cn": "防御，辩护"
+  },
+  "delegate": {
+    "word": "delegate",
+    "phonetic_us": "",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A person authorized to act as representative for another; a deputy",
+    "example": "",
+    "def_cn": "代表，委派"
+  },
+  "deficit": {
+    "word": "deficit",
+    "phonetic_us": "/ˈdɛfɪsɪt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Deficiency in amount or quality; a falling short; lack.",
+    "example": "",
+    "def_cn": "赤字，不足"
+  },
+  "democracy": {
+    "word": "democracy",
+    "phonetic_us": "/dɪˈmɒkɹəsi/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Rule by the people, especially as a form of government; either directly or through elected representatives (representative democracy).",
+    "example": "",
+    "def_cn": "民主"
+  },
+  "department": {
+    "word": "department",
+    "phonetic_us": "/dəˈpɑɹtmənt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A part, portion, or subdivision.",
+    "example": "",
+    "def_cn": "部门，系"
+  },
+  "depression": {
+    "word": "depression",
+    "phonetic_us": "/dəˈpɹɛʃ(ə)n/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "In psychotherapy and psychiatry, a state of mind producing serious, long-term lowering of enjoyment of life or inability to visualize a happy future.",
+    "example": "I used to suffer from depression, but now I'm mostly content with my life.",
+    "def_cn": "抑郁，萧条"
+  },
+  "deposit": {
+    "word": "deposit",
+    "phonetic_us": "/dɨˈpɑzɪt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Sediment or rock that is not native to its present location or is different from the surrounding material. Sometimes refers to ore or gems.",
+    "example": "",
+    "def_cn": "存款，押金"
+  },
+  "derive": {
+    "word": "derive",
+    "phonetic_us": "/dəˈɹaɪv/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "To obtain or receive (something) from something else.",
+    "example": "",
+    "def_cn": "源自，获得"
+  },
+  "defendant": {
+    "word": "defendant",
+    "phonetic_us": "/dɪˈfɛnd.ənt/",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "Serving, or suitable, for defense; defensive, defending.",
+    "example": "",
+    "def_cn": "被告"
+  },
+  "dimension": {
+    "word": "dimension",
+    "phonetic_us": "/daɪˈmɛnʃən/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A single aspect of a given thing.",
+    "example": "",
+    "def_cn": "维度，尺寸"
+  },
+  "discipline": {
+    "word": "discipline",
+    "phonetic_us": "/ˈdɪ.sə.plɪn/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A controlled behaviour; self-control.",
+    "example": "",
+    "def_cn": "纪律，学科"
+  },
+  "dispute": {
+    "word": "dispute",
+    "phonetic_us": "/dɪsˈpjuːt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An argument or disagreement, a failure to agree.",
+    "example": "",
+    "def_cn": "争论，纠纷"
+  },
+  "discount": {
+    "word": "discount",
+    "phonetic_us": "/dɪsˈkaʊnt/",
+    "phonetic_uk": "/dɪsˈkaʊnt/",
+    "pos": "noun",
+    "definition": "A reduction in price.",
+    "example": "This store offers discounts on all its wares. That store specializes in discount wares, too.",
+    "def_cn": "折扣"
+  },
+  "disorder": {
+    "word": "disorder",
+    "phonetic_us": "/dɪsˈɔːɹdɚ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Absence of order; state of not being arranged in an orderly manner.",
+    "example": "After playing the children left the room in disorder.",
+    "def_cn": "混乱，失调"
+  },
+  "diverse": {
+    "word": "diverse",
+    "phonetic_us": "/daɪ.ˈvɝs/",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "Consisting of many different elements; various.",
+    "example": "",
+    "def_cn": "多样的，不同的"
+  },
+  "dissolve": {
+    "word": "dissolve",
+    "phonetic_us": "/dɪˈzɒlv/",
+    "phonetic_uk": "/dɪˈzɒlv/",
+    "pos": "noun",
+    "definition": "A form of film punctuation in which there is a gradual transition from one scene to the next",
+    "example": "",
+    "def_cn": "溶解，解散"
+  },
+  "haul": {
+    "word": "haul",
+    "phonetic_us": "",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An act of hauling or pulling, particularly with force; a (violent) pull or tug.",
+    "example": "",
+    "def_cn": "拖，拉"
+  },
+  "hearing": {
+    "word": "hearing",
+    "phonetic_us": "/ˈhɪɹ.ɪŋ/",
+    "phonetic_uk": "",
+    "pos": "verb",
+    "definition": "(stative) To perceive sounds through the ear.",
+    "example": "I was deaf, and now I can hear.",
+    "def_cn": "听力，听证会"
+  },
+  "headquarters": {
+    "word": "headquarters",
+    "phonetic_us": "/ˌhɛd.ˈkwɔː.təz/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The military installation from which troops are commanded and orders are issued; the military unit consisting of a commander and his support staff.",
+    "example": "",
+    "def_cn": "总部"
+  },
+  "harbor": {
+    "word": "harbor",
+    "phonetic_us": "/ˈhɑɹbɚ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Any place of shelter.",
+    "example": "The neighborhood is a well-known harbor for petty thieves.",
+    "def_cn": "港口，庇护"
+  },
+  "heritage": {
+    "word": "heritage",
+    "phonetic_us": "/ˈhɛɹɪtɪd͡ʒ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An inheritance; property that may be inherited.",
+    "example": "",
+    "def_cn": "遗产，传统"
+  },
+  "horizon": {
+    "word": "horizon",
+    "phonetic_us": "/həˈɹaɪzən/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The visible horizontal line or point (in all directions) that appears to connect the Earth to the sky.",
+    "example": "A tall building was visible on the horizon.",
+    "def_cn": "地平线，眼界"
+  },
+  "humanity": {
+    "word": "humanity",
+    "phonetic_us": "/hjuˈmænɪti/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Mankind; human beings as a group.",
+    "example": "",
+    "def_cn": "人类，人性"
+  },
+  "ideal": {
+    "word": "ideal",
+    "phonetic_us": "/aɪˈdiː.əl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
+    "example": "",
+    "def_cn": "理想的，理想"
+  },
+  "humor": {
+    "word": "humor",
+    "phonetic_us": "/ˈhjuːmɚ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The quality of being amusing, comical, funny.",
+    "example": "She has a great sense of humour, and I always laugh a lot whenever we get together.",
+    "def_cn": "幽默"
+  },
+  "hunger": {
+    "word": "hunger",
+    "phonetic_us": "/ˈhʌŋɡɚ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A need or compelling desire for food.",
+    "example": "",
+    "def_cn": "饥饿，渴望"
+  },
+  "identical": {
+    "word": "identical",
+    "phonetic_us": "/aɪˈdɛntɪkl̩/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "(usually pluralized) Something which has exactly the same properties as something else.",
+    "example": "",
+    "def_cn": "相同的，同一的"
+  },
+  "ignorance": {
+    "word": "ignorance",
+    "phonetic_us": "/ˈɪɡnəɹəns/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The condition of being uninformed or uneducated. Lack of knowledge or information.",
+    "example": "",
+    "def_cn": "无知"
+  },
+  "index": {
+    "word": "index",
+    "phonetic_us": "/ˈɪndɛks/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An alphabetical listing of items and their location.",
+    "example": "The index of a book lists words or expressions and the pages of the book upon which they are to be found.",
+    "def_cn": "索引，指数"
+  },
+  "impulse": {
+    "word": "impulse",
+    "phonetic_us": "/ˈɪmpʌls/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A thrust; a push; a sudden force that impels.",
+    "example": "",
+    "def_cn": "冲动，脉冲"
+  },
+  "immigrant": {
+    "word": "immigrant",
+    "phonetic_us": "/ˈɪmɪɡɹənt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A non-native person who comes to a country from another country in order to permanently settle there.",
+    "example": "",
+    "def_cn": "移民"
+  },
+  "implication": {
+    "word": "implication",
+    "phonetic_us": "/ˌɪmpləˈkeɪʃən/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The act of implicating.",
+    "example": "",
+    "def_cn": "含义，暗示"
+  },
+  "indication": {
+    "word": "indication",
+    "phonetic_us": "/ɪndɪˈkeɪʃən/",
+    "phonetic_uk": "/ɪndɪˈkeɪʃən/",
+    "pos": "noun",
+    "definition": "Act of pointing out or indicating.",
+    "example": "",
+    "def_cn": "指示，迹象"
+  },
+  "inevitable": {
+    "word": "inevitable",
+    "phonetic_us": "/ɪnˈɛvɪtəbəl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Something that is predictable, necessary, or cannot be avoided.",
+    "example": "",
+    "def_cn": "不可避免的"
+  },
+  "infection": {
+    "word": "infection",
+    "phonetic_us": "/ɪnˈfɛkʃən/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The act or process of infecting.",
+    "example": "",
+    "def_cn": "感染，传染"
+  },
+  "incentive": {
+    "word": "incentive",
+    "phonetic_us": "/ɪnˈsɛntɪv/",
+    "phonetic_uk": "/ɪnˈsɛntɪv/",
+    "pos": "noun",
+    "definition": "Something that motivates, rouses, or encourages.",
+    "example": "I have no incentive to do housework right now.",
+    "def_cn": "激励，动力"
+  },
+  "infant": {
+    "word": "infant",
+    "phonetic_us": "/ˈɪn.fənt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A very young human being, from birth to somewhere between six months and two years of age, needing almost constant care and/or attention.",
+    "example": "",
+    "def_cn": "婴儿"
+  },
+  "nationality": {
+    "word": "nationality",
+    "phonetic_us": "/-ˈnæl.ti/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Membership of a particular nation or state, by origin, birth, naturalization, ownership, allegiance or otherwise.",
+    "example": "",
+    "def_cn": "国籍"
+  },
+  "necessity": {
+    "word": "necessity",
+    "phonetic_us": "/nɪˈsɛsəti/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The quality or state of being necessary, unavoidable, or absolutely requisite.",
+    "example": "I bought a new table out of necessity. My old one was ruined.",
+    "def_cn": "必要性，必需品"
+  },
+  "navigation": {
+    "word": "navigation",
+    "phonetic_us": "/nævɪˈɡeɪʃən/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The theory, practice and technology of charting a course for a ship, aircraft or spaceship or (colloquially) road vehicle.",
+    "example": "",
+    "def_cn": "导航，航行"
+  },
+  "nomination": {
+    "word": "nomination",
+    "phonetic_us": "",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An act or instance of nominating.",
+    "example": "",
+    "def_cn": "提名，任命"
+  },
+  "nonprofit": {
+    "word": "nonprofit",
+    "phonetic_us": "",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An organization that exists for reasons other than to make a profit, such as a charitable, educational or service organization.",
+    "example": "Employees of a nonprofit rarely make as much as greedy counterparts in the commercial world.",
+    "def_cn": "非营利"
+  },
+  "norm": {
+    "word": "norm",
+    "phonetic_us": "/nɔɹm/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "That which is normal or typical.",
+    "example": "Unemployment is the norm in this part of the country.",
+    "def_cn": "规范，标准"
+  },
+  "nuclear": {
+    "word": "nuclear",
+    "phonetic_us": "/ˈn(j)ukjəlɚ/",
+    "phonetic_uk": "/ˈn(j)ukliɚ/",
+    "pos": "noun",
+    "definition": "Nuclear power",
+    "example": "",
+    "def_cn": "核的，原子能的"
+  },
+  "occupation": {
+    "word": "occupation",
+    "phonetic_us": "/ɑkjəˈpeɪʃən/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An activity or task with which one occupies oneself; usually specifically the productive activity, service, trade, or craft for which one is regularly paid; a job.",
+    "example": "",
+    "def_cn": "职业，占领"
+  },
+  "obligation": {
+    "word": "obligation",
+    "phonetic_us": "/ɑb.ləˈɡeɪ.ʃən/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The act of binding oneself by a social, legal, or moral tie to someone.",
+    "example": "",
+    "def_cn": "义务，责任"
+  },
+  "optimistic": {
+    "word": "optimistic",
+    "phonetic_us": "/ˌɒptɪˈmɪstɪk/",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "Expecting the best in all possible ways.",
+    "example": "in an optimistic mood",
+    "def_cn": "乐观的"
+  },
+  "organic": {
+    "word": "organic",
+    "phonetic_us": "/ɔɹˈɡænɪk/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An organic compound.",
+    "example": "",
+    "def_cn": "有机的"
+  },
+  "operator": {
+    "word": "operator",
+    "phonetic_us": "/ˈɒpəˌɹeɪtə/",
+    "phonetic_uk": "/ˈɒpəˌɹeɪtə/",
+    "pos": "noun",
+    "definition": "One who operates.",
+    "example": "",
+    "def_cn": "操作员，经营者"
+  },
+  "offense": {
+    "word": "offense",
+    "phonetic_us": "/əˈfɛns/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The act of offending:",
+    "example": "",
+    "def_cn": "冒犯，犯罪"
+  },
+  "organizational": {
+    "word": "organizational",
+    "phonetic_us": "",
+    "phonetic_uk": "",
+    "pos": "adjective",
+    "definition": "Of, relating to, or produced by an organization.",
+    "example": "",
+    "def_cn": "组织的"
+  },
+  "oxygen": {
+    "word": "oxygen",
+    "phonetic_us": "/ˈɒksɪdʒən/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The chemical element (symbol O) with an atomic number of 8 and relative atomic mass of 15.9994. It is a colorless and odorless gas.",
+    "example": "",
+    "def_cn": "氧气"
+  },
+  "ownership": {
+    "word": "ownership",
+    "phonetic_us": "",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The state of having complete legal control of something; possession; proprietorship.",
+    "example": "",
+    "def_cn": "所有权"
+  },
+  "panel": {
+    "word": "panel",
+    "phonetic_us": "/ˈpænəl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A (usually) rectangular section of a surface, or of a covering or of a wall, fence etc.",
+    "example": "Behind the picture was a panel on the wall.",
+    "def_cn": "面板，小组"
+  },
+  "parameter": {
+    "word": "parameter",
+    "phonetic_us": "/pəˈɹæm.ɪ.tə/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A value kept constant during an experiment, equation, calculation or similar, but varied over other versions of the experiment, equation, calculation, etc.",
+    "example": "",
+    "def_cn": "参数，界限"
+  },
+  "parallel": {
+    "word": "parallel",
+    "phonetic_us": "/ˈpæɹəˌlɛl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "One of a set of parallel lines.",
+    "example": "",
+    "def_cn": "平行的，平行"
+  },
+  "partnership": {
+    "word": "partnership",
+    "phonetic_us": "",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The state of being associated with a partner.",
+    "example": "",
+    "def_cn": "合伙，合作关系"
+  },
+  "passive": {
+    "word": "passive",
+    "phonetic_us": "/ˈpæs.ɪv/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "(grammar) The passive voice of verbs.",
+    "example": "",
+    "def_cn": "被动的，消极的"
+  },
+  "parliament": {
+    "word": "parliament",
+    "phonetic_us": "/ˈpɑɹləmənt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A formal council summoned (especially by a monarch) to discuss important issues.",
+    "example": "",
+    "def_cn": "议会，国会"
+  },
+  "peak": {
+    "word": "peak",
+    "phonetic_us": "/piːk/",
+    "phonetic_uk": "/piːk/",
+    "pos": "noun",
+    "definition": "A point; the sharp end or top of anything that terminates in a point; as, the peak, or front, of a cap.",
+    "example": "",
+    "def_cn": "顶峰，峰值"
+  },
+  "penalty": {
+    "word": "penalty",
+    "phonetic_us": "/ˈpɛnəlti/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A legal sentence.",
+    "example": "The penalty for his crime was to do hard labor.",
+    "def_cn": "惩罚，罚款"
+  },
+  "pension": {
+    "word": "pension",
+    "phonetic_us": "/ˈpɛnʃ(ə)n/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An annuity paid regularly as benefit due to a retired employee, serviceman etc. in consideration of past services, originally and chiefly by a government but also by various private pension schemes.",
+    "example": "Many old people depend on their pension to pay the bills.",
+    "def_cn": "养老金，退休金"
+  },
+  "perception": {
+    "word": "perception",
+    "phonetic_us": "/pɚˈsɛpʃ(ə)n/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The organisation, identification and interpretation of sensory information.",
+    "example": "",
+    "def_cn": "感知，看法"
+  },
+  "retail": {
+    "word": "retail",
+    "phonetic_us": "/ˈɹiˌteɪl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The sale of goods directly to the consumer, encompassing the storefronts, mail-order, websites, etc., and the corporate mechanisms, branding, advertising, etc. that support them.",
+    "example": "She works in retail.",
+    "def_cn": "零售"
+  },
+  "resolution": {
+    "word": "resolution",
+    "phonetic_us": "/ˌɹɛzəˈl(j)uʃ(ə)n/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A strong will, determination.",
+    "example": "",
+    "def_cn": "决议，决心"
+  },
+  "resistance": {
+    "word": "resistance",
+    "phonetic_us": "/ɹɪˈzɪstəns/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The act of resisting, or the capacity to resist.",
+    "example": "the resistance of bacteria to certain antibiotics",
+    "def_cn": "抵抗，阻力"
+  },
+  "retirement": {
+    "word": "retirement",
+    "phonetic_us": "/ɹəˈtaɪə(ɹ).mənt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An act of retiring; withdrawal.",
+    "example": "",
+    "def_cn": "退休"
+  },
+  "residence": {
+    "word": "residence",
+    "phonetic_us": "/ˈɹɛz.ɪ.dəns/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The place where one lives; one's home.",
+    "example": "",
+    "def_cn": "居住，住所"
+  },
+  "reverse": {
+    "word": "reverse",
+    "phonetic_us": "/ɹɪˈvɜːs/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The opposite of something.",
+    "example": "We believed the Chinese weren't ready for us. In fact, the reverse was true.",
+    "def_cn": "反向，逆转"
+  },
+  "rhythm": {
+    "word": "rhythm",
+    "phonetic_us": "/ˈɹɪ.ð(ə)m/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The variation of strong and weak elements (such as duration, accent) of sounds, notably in speech or music, over time; a beat or meter.",
+    "example": "Dance to the rhythm of the music.",
+    "def_cn": "节奏，韵律"
+  },
+  "robot": {
+    "word": "robot",
+    "phonetic_us": "/ˈɹoʊbɑt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A machine built to carry out some complex task or group of tasks by physically moving, especially one which can be programmed.",
+    "example": "",
+    "def_cn": "机器人"
+  },
+  "rocket": {
+    "word": "rocket",
+    "phonetic_us": "/ˈɹɑkɪt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A rocket engine.",
+    "example": "",
+    "def_cn": "火箭"
+  },
+  "royal": {
+    "word": "royal",
+    "phonetic_us": "/ˈɹɔɪəl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A royal person; a member of a royal family.",
+    "example": "",
+    "def_cn": "皇家的，王室的"
+  },
+  "ruin": {
+    "word": "ruin",
+    "phonetic_us": "/ˈɹuː.ɪn/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "(sometimes in the plural) The remains of a destroyed or dilapidated construction, such as a house or castle.",
+    "example": "",
+    "def_cn": "毁灭，废墟"
+  },
+  "sake": {
+    "word": "sake",
+    "phonetic_us": "/seɪk/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Cause, interest or account",
+    "example": "For the sake of argument",
+    "def_cn": "缘故，目的"
+  },
+  "route": {
+    "word": "route",
+    "phonetic_us": "/ɹaʊt/",
+    "phonetic_uk": "/ɹuːt/",
+    "pos": "noun",
+    "definition": "A course or way which is traveled or passed.",
+    "example": "The route was used so much that it formed a rut.",
+    "def_cn": "路线，路径"
+  },
+  "scandal": {
+    "word": "scandal",
+    "phonetic_us": "/ˈskændəl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An incident or event that disgraces or damages the reputation of the persons or organization involved.",
+    "example": "Their affair was reported as a scandal by most tabloids.",
+    "def_cn": "丑闻，流言蜚语"
+  },
+  "scenario": {
+    "word": "scenario",
+    "phonetic_us": "/sɪˈnæɹioʊ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An outline of the plot of a dramatic or literary work.",
+    "example": "",
+    "def_cn": "场景，方案"
+  },
+  "satellite": {
+    "word": "satellite",
+    "phonetic_us": "/ˈsætəlaɪt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A moon or other smaller body orbiting a larger one.",
+    "example": "A spent upper stage is a derelict satellite.",
+    "def_cn": "卫星"
+  },
+  "rival": {
+    "word": "rival",
+    "phonetic_us": "/ˈɹaɪvəl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A competitor (person, team, company, etc.) with the same goal as another, or striving to attain the same thing. Defeating a rival may be a primary or necessary goal of a competitor.",
+    "example": "Chris is my biggest rival in the 400-metre race.",
+    "def_cn": "竞争对手"
+  },
+  "tactic": {
+    "word": "tactic",
+    "phonetic_us": "/ˈtæktɪk/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A maneuver, or action calculated to achieve some end.",
+    "example": "",
+    "def_cn": "策略，战术"
+  },
+  "tale": {
+    "word": "tale",
+    "phonetic_us": "/ˈteɪl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An account of an asserted fact or circumstance; a rumour; a report, especially an idle or malicious story; a piece of gossip or slander; a lie.",
+    "example": "Don't tell tales!",
+    "def_cn": "故事，传说"
+  },
+  "tax": {
+    "word": "tax",
+    "phonetic_us": "/tæks/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Money paid to the government other than for transaction-specific goods and services.",
+    "example": "",
+    "def_cn": "税，征税"
+  },
+  "tap": {
+    "word": "tap",
+    "phonetic_us": "/tæp/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A tapering cylindrical pin or peg used to stop the vent in a cask.",
+    "example": "",
+    "def_cn": "水龙头，轻敲"
+  },
+  "telescope": {
+    "word": "telescope",
+    "phonetic_us": "/ˈtɛləˌskoʊp/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A monocular optical instrument that magnifies distant objects, especially in astronomy.",
+    "example": "",
+    "def_cn": "望远镜"
+  },
+  "temple": {
+    "word": "temple",
+    "phonetic_us": "/ˈtɛmp(ə)l/",
+    "phonetic_uk": "/ˈtɛmp(ə)l/",
+    "pos": "noun",
+    "definition": "A house of worship, especially:",
+    "example": "",
+    "def_cn": "寺庙，太阳穴"
+  },
+  "therapy": {
+    "word": "therapy",
+    "phonetic_us": "/ˈθɛɹ.ə.pi/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Attempted remediation of a health problem following a diagnosis, usually synonymous with treatment.",
+    "example": "",
+    "def_cn": "治疗，疗法"
+  },
+  "territory": {
+    "word": "territory",
+    "phonetic_us": "/ˈtɛɹɪt(ə)ɹi/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A large extent or tract of land; for example a region, country or district.",
+    "example": "",
+    "def_cn": "领土，领域"
+  },
+  "textile": {
+    "word": "textile",
+    "phonetic_us": "/ˈtɛks.taɪl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "(usually in the plural) Any material made of interlacing fibres, including carpeting and geotextiles.",
+    "example": "",
+    "def_cn": "纺织品"
+  },
+  "terror": {
+    "word": "terror",
+    "phonetic_us": "/ˈtɛɚ/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Intense dread, fright, or fear.",
+    "example": "",
+    "def_cn": "恐怖，恐怖行为"
+  },
+  "thereby": {
+    "word": "thereby",
+    "phonetic_us": "/ðɛɹˈbaɪ/",
+    "phonetic_uk": "",
+    "pos": "adverb",
+    "definition": "By it; by that; by that means, or as a consequence of that.",
+    "example": "",
+    "def_cn": "因此，从而"
+  },
+  "thread": {
+    "word": "thread",
+    "phonetic_us": "/[θɾ̪̊ɛd]/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A long, thin and flexible form of material, generally with a round cross-section, used in sewing, weaving or in the construction of string.",
+    "example": "",
+    "def_cn": "线，线索"
+  },
+  "tissue": {
+    "word": "tissue",
+    "phonetic_us": "/ˈtɪʃu/",
+    "phonetic_uk": "/ˈtɪsjuː/",
+    "pos": "noun",
+    "definition": "Thin, woven, gauze-like fabric.",
+    "example": "",
+    "def_cn": "组织，纸巾"
+  },
+  "threshold": {
+    "word": "threshold",
+    "phonetic_us": "/ˈθɹɛʃ(h)oʊld/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The bottom-most part of a doorway that one crosses to enter; a sill.",
+    "example": "",
+    "def_cn": "门槛，临界值"
+  },
+  "toll": {
+    "word": "toll",
+    "phonetic_us": "/toʊl/",
+    "phonetic_uk": "/tɒl/",
+    "pos": "noun",
+    "definition": "Loss or damage incurred through a disaster.",
+    "example": "The war has taken its toll on the people.",
+    "def_cn": "通行费，伤亡人数"
+  },
+  "tone": {
+    "word": "tone",
+    "phonetic_us": "/toʊn/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A specific pitch.",
+    "example": "",
+    "def_cn": "语气，音调"
+  },
+  "tournament": {
+    "word": "tournament",
+    "phonetic_us": "/ˈtɔːnəmənt/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "During the Middle Ages, a series of battles and other contests designed to prepare knights for war.",
+    "example": "",
+    "def_cn": "锦标赛"
+  },
+  "trail": {
+    "word": "trail",
+    "phonetic_us": "/tɹeɪl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The track or indication marking the route followed by something that has passed, such as the footprints of animal on land or the contrail of an airplane in the sky.",
+    "example": "",
+    "def_cn": "小径，追踪"
+  },
+  "trait": {
+    "word": "trait",
+    "phonetic_us": "/tɹeɪ/",
+    "phonetic_uk": "/tɹeɪ/",
+    "pos": "noun",
+    "definition": "An identifying characteristic, habit or trend.",
+    "example": "The number one personality trait I hate is hypocrisy. Why can't you be consistent!?",
+    "def_cn": "特征，特性"
+  },
+  "transaction": {
+    "word": "transaction",
+    "phonetic_us": "/tɹænˈzækʃən/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The act of conducting or carrying out (business, negotiations, plans).",
+    "example": "The transaction was made on Friday with the supplier.",
+    "def_cn": "交易"
+  },
+  "transition": {
+    "word": "transition",
+    "phonetic_us": "/tɹænˈzɪʃən/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The process of change from one form, state, style or place to another.",
+    "example": "",
+    "def_cn": "过渡，转变"
+  },
+  "transmission": {
+    "word": "transmission",
+    "phonetic_us": "/tɹænsˈmɪʃən/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The act of transmitting, e.g. data or electric power.",
+    "example": "",
+    "def_cn": "传输，传播"
+  },
+  "trauma": {
+    "word": "trauma",
+    "phonetic_us": "/ˈtɹaʊ.mə/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "Any serious injury to the body, often resulting from violence or an accident.",
+    "example": "",
+    "def_cn": "创伤"
+  },
+  "treaty": {
+    "word": "treaty",
+    "phonetic_us": "/ˈtɹiːti/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A binding agreement concluded by subjects of international law, namely states and international organizations.",
+    "example": "",
+    "def_cn": "条约，协议"
+  },
+  "trial": {
+    "word": "trial",
+    "phonetic_us": "/ˈtɹaɪəl/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An opportunity to test something out; a test.",
+    "example": "They will perform the trials for the new equipment next week.",
+    "def_cn": "审判，试验"
+  },
+  "tunnel": {
+    "word": "tunnel",
+    "phonetic_us": "/ˈtʌn(ə)l/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "An underground or underwater passage.",
+    "example": "",
+    "def_cn": "隧道"
+  },
+  "troop": {
+    "word": "troop",
+    "phonetic_us": "/tɹuːp/",
+    "phonetic_uk": "/tɹuːp/",
+    "pos": "noun",
+    "definition": "(collective) A collection of people; a number; a multitude (in general).",
+    "example": "",
+    "def_cn": "军队，部队"
+  },
+  "tutor": {
+    "word": "tutor",
+    "phonetic_us": "/ˈtutɚ/",
+    "phonetic_uk": "/ˈtjuːtə/",
+    "pos": "noun",
+    "definition": "One who teaches another (usually called a student, learner, or tutee) in a one-on-one or small-group interaction.",
+    "example": "He passed the difficult class with help from his tutor.",
+    "def_cn": "导师，家教"
+  },
+  "turnover": {
+    "word": "turnover",
+    "phonetic_us": "",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "The amount of money taken as sales transacted in a given period.",
+    "example": "The company had an annual turnover of $500,000.",
+    "def_cn": "营业额，人员流动"
+  },
+  "tribe": {
+    "word": "tribe",
+    "phonetic_us": "/tɹaɪb/",
+    "phonetic_uk": "",
+    "pos": "noun",
+    "definition": "A socially, ethnically, or politically cohesive group of people.",
+    "example": "",
+    "def_cn": "部落"
+  }
+}

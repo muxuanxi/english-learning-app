@@ -1,0 +1,54 @@
+# --- Maven ---
+backend/target/
+*.jar
+*.war
+*.class
+!.mvn/wrapper/maven-wrapper.jar
+
+# --- Node ---
+frontend/node_modules/
+frontend/dist/
+*.log
+npm-debug.log*
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# --- IDE ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# --- Environment ---
+.env
+.env.local
+.env.*.local
+
+# --- Uploads/Data ---
+uploads/
+*.db
+*.sqlite
+
+# --- OS ---
+Thumbs.db
+*.tmp
+
+# --- Logs ---
+logs/
+*.log
+/tmp/
+
+# --- Crawler data (keep scripts, ignore data dumps except JSON resource) ---
+crawler/data/*.java.txt
+
+# --- Vue dist ---
+dist/
